@@ -1,5 +1,5 @@
-<div class="cookie-banner">
-    <div class="container py-3 px-4" id="cookieBanner">
+<div class="cookie-choice-banner-div-wrapper">
+    <div class="container py-3 px-4" id="cookieChoiceBannerPopupParent">
         <div class="columns is-vcentered">
             <div class="column">
                 <span>
@@ -31,7 +31,7 @@
 
         function toggleCookieBanner() {
             var showBanner = Cookies.get('showCookieBanner');
-            var banner = document.getElementById('cookieBanner');
+            var banner = document.getElementById('cookieChoiceBannerPopupParent');
 
             if (showBanner === 'false') {
                 banner.setAttribute('style', 'display: none;');
