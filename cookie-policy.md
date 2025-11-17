@@ -25,9 +25,7 @@ We use Umami for site analytics. Umami is a privacy-friendly, cookie-less analyt
 
 ## How to change or revoke your consent
 
-You can change or revoke your cookie consent at any time by:
-- Clearing the `cookiesAccepted` and `showCookieBanner` cookies in your browser, or
-- Using the cookie settings option on the site (if provided), which will update those cookies accordingly.
+You can change or revoke your cookie consent at any time by clearing the `cookiesAccepted` and `showCookieBanner` cookies in your browser.
 
 If you clear or remove the stored preferences, the cookie banner may be shown again so you can reselect your preference.
 
