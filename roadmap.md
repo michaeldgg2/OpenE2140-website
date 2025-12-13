@@ -8,7 +8,7 @@ permalink: /roadmap/
 
 This is a community-driven fan project with no deadlines. The roadmap shows milestones, not dates — items may be revisited or worked on concurrently based on development needs and community input.
 
-Last update: 2025-11-09
+Last update: 2025-11-16
 
 
 ## High-level overview
