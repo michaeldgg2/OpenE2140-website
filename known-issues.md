@@ -97,5 +97,7 @@ AI bots:
 - Selection boxes have a different shape and color compared to those in the original game ([#674](https://github.com/OpenE2140/OpenE2140/issues/674))
 - Torpedoes, used by RUSS 3 and Shark, always explode at target location (instead of moving until they hit something) ([#552](https://github.com/OpenE2140/OpenE2140/issues/552))
 - Some statistics in observer/replay view are incorrect or missing ([#696](https://github.com/OpenE2140/OpenE2140/issues/696))
+- Shadow/Screamer/Detector abilities glitch when combined with WTP 100/WTRN ([#812](https://github.com/OpenE2140/OpenE2140/issues/812))
+- Water Base Dock placement overlay "bleeds" over to other players in MP ([#769](https://github.com/OpenE2140/OpenE2140/issues/769))
 
 For more complete and detailed list, see [list of issues on GitHub](https://github.com/OpenE2140/OpenE2140/issues).
