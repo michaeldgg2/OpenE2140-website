@@ -72,11 +72,9 @@ AI bots:
 
 
 ## Not implemented stuff
-- SDI Defense building cannot destroy incoming nuclear missiles ([#642](https://github.com/OpenE2140/OpenE2140/issues/642))
 - Miners cannot disarm mines ([#318](https://github.com/OpenE2140/OpenE2140/issues/318))
 - Explosions and flammable grenades don't cause actual fire that spreads and damages everything it touches ([#154](https://github.com/OpenE2140/OpenE2140/issues/154))
     - i.e., the fire is currently just a visual effect
-- ED's nuclear missile does not have a thruster trail ([#438](https://github.com/OpenE2140/OpenE2140/issues/438))
 - Vehicles/mechs cannot enter Shelter ([#389](https://github.com/OpenE2140/OpenE2140/issues/389))
 
 
@@ -85,10 +83,8 @@ AI bots:
 - HCU-M captures of disabled vehicles instantly ([#274](https://github.com/OpenE2140/OpenE2140/issues/274))
 - Mech walking sounds and Heavy Lifter moving sounds play even when the game is paused ([#574](https://github.com/OpenE2140/OpenE2140/issues/574))
 - HT 30 LR rocket launchers don't work independently of lasers ([#184](https://github.com/OpenE2140/OpenE2140/issues/184))
-- KT 30 heavy rocket launcher doesn't work independently of the light rocket launcher ([#184](https://github.com/OpenE2140/OpenE2140/issues/184))
-- When HT 30 LR is ordered to attack, it won't get close enough to the target for the laser cannons to start firing; i.e., only its rocket launchers will fire ([#185](https://github.com/OpenE2140/OpenE2140/issues/185))
-    - Lasers *will* start firing when the HT 30 LR gets a little closer.
 - HT 30 LR lasers can fire at different targets ([#208](https://github.com/OpenE2140/OpenE2140/issues/208))
+- KT 30 heavy rocket launcher doesn't work independently from the light rocket launcher ([#184](https://github.com/OpenE2140/OpenE2140/issues/184))
 - KT 30 ship's rocket launchers have incorrect positions ([#270](https://github.com/OpenE2140/OpenE2140/issues/270))
 - Transporter units (ATM 500, TUR, HAT, WTRN, WTP 100) don't have load/unload animations, nor do they load or unload units like in Earth 2140 ([#246](https://github.com/OpenE2140/OpenE2140/issues/246))
     - i.e., the transporters don't rotate and transported units don't enter or leave from specific directions
