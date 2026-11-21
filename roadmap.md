@@ -8,7 +8,7 @@ permalink: /roadmap/
 
 This is a community-driven fan project with no deadlines. The roadmap shows milestones, not dates — items may be revisited or worked on concurrently based on development needs and community input.
 
-Last update: 2026-08-30
+Last update: 2026-11-22
 
 
 ## High-level overview
@@ -38,7 +38,7 @@ Planned milestones:
 
 ## ~~[Basic AI](https://github.com/OpenE2140/OpenE2140/milestone/8)~~
 
-Basic Skirmish AI has been implemented and is available in current release of OpenE2140. There are a few small things we want to implement/fix before moving on to other areas of development.
+Basic Skirmish AI has been implemented and is available in current release of OpenE2140. AI players can build bases, research technologies, collect resources, build armies and superweapons and attack its opponents.
 
 ## [Gameplay mechanics](https://github.com/OpenE2140/OpenE2140/milestone/7)
 
